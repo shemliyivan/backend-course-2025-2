@@ -1,4 +1,4 @@
-const currency = "UAH"
+const currency = "EUR"
 const exact_date = "10.09.2024"
 
 let Url_Bank = new URL("https://bank.gov.ua/NBU_ovdp?json");
